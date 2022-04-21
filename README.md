@@ -42,3 +42,8 @@ npm start
 ```http
  http://localhost:3000
  ```
+## Explaination
+
+Here you can find the PDF file we test the vulnerabilities step by step.
+
+[ Download PDF File ](https://github.com/YASSEROVIC/Computer_Secuirity/blob/main/Voul_on_J_S.pdf)
